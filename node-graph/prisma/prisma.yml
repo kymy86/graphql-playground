@@ -1,0 +1,6 @@
+service: graph-node
+stage: dev
+datamodel: datamodel.graphql
+secret: prismasecret123
+
+cluster: public-spangleantler-415/prisma-eu1
